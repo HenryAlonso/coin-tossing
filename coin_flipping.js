@@ -1,4 +1,4 @@
-// Function to toss until 5 heads are tossed in a row unless it exceeds 100 tosses.
+
 function tossCoin() {
     return Math.random() > 0.5 ? "heads" : "tails";
 }
